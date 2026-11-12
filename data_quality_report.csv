@@ -1,0 +1,6 @@
+Column,Data_Type,Missing_Values,Unique_Values
+Product_Name,str,0,999
+Price,float64,0,903
+Rating,int64,0,5
+Rating_Category,str,0,4
+Price_Category,str,0,3
